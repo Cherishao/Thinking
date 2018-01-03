@@ -1,6 +1,6 @@
 # Thinking
 
-##A little thought on work efficiency:post_office:
+## A little thought on work efficiency:post_office:
 
 ### **高效**:earphones:
 
@@ -20,7 +20,7 @@
 ```
 }
 
-##Some meeting in life
+## Some meeting in life
 
 >很高兴你能来，不遗憾你离开
 
